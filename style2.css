@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(218, 213, 213);
     display: flex;
     min-height: 100vh;
     align-items: center;
@@ -16,7 +16,7 @@ body {
 }
 
 canvas {
-    background-color: orange;
+    background-color: rgb(247, 167, 20);
 }
 
 .score {
